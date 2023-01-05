@@ -1,14 +1,14 @@
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+/*        Scanner sc = new Scanner(System.in);
 //String[] vect = new String[]{"rosa","bob","Alex"};
 //
-//
-//for (int i =0;i<vect.length;i++){
+////for (int i =0;i<vect.length;i++){
 //    System.out.println(vect[i]);
 //}
 //    System.out.println("Hello world!");
@@ -22,12 +22,12 @@ public class Main {
 //}
 
 
-List<String> lutadores = new ArrayList<>();
-    lutadores.add("Balrog");
-    lutadores.add("Honda");
-    lutadores.add("Juguernaaut");
-    lutadores.add("Blanca");
-    lutadores.add(2,"Riu");
+        List<String> lutadores = new ArrayList<>();
+        lutadores.add("Balrog");
+        lutadores.add("Honda");
+        lutadores.add("Juguernaaut");
+        lutadores.add("Blanca");
+        lutadores.add(2,"Riu");
 //a diferenca eh que aqui ele vsai pegar cada membro da lista individualmente
 //    for(String VarreLista : lutadores){
 //        System.out.println(VarreLista);
@@ -81,7 +81,29 @@ List<String> lutadores = new ArrayList<>();
             }
         }
 
-        sc.close();
+        sc.close();*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
 

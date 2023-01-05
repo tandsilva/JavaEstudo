@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Enumeracoes.iml" filepath="$PROJECT_DIR$/Enumeracoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entities/order/order.iml" filepath="$PROJECT_DIR$/Entities/order/order.iml" />
+    </modules>
+  </component>
+</project>
